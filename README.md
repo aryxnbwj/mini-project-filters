@@ -8,4 +8,4 @@ Greyscale
 Rainbow
 ![image](https://user-images.githubusercontent.com/50333767/197146234-ca6ab59e-905b-4a78-94a5-d5b9f9e19b7c.png)
 
-and many others.
+etc.
