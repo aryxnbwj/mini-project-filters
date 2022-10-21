@@ -1,0 +1,21 @@
+<script src="https://www.dukelearntoprogram.com/course1/common/js/image/SimpleImage.js"> 
+</script>
+<table><tr><td>
+  <header><h1>Edit your images!</h1></header>
+<canvas id="can1"></canvas>
+
+  <h1>Upload Image</h1>
+<input type="file" multiple="false" accept="image/*" onchange="uploadImage()" id="upload">
+
+<p>
+  <h2>Filters</h2>
+  <input type="button" value="Grayscale" id="btn-1" onclick="grayScale()">
+  <input type="button" value="Rainbow" id="btn-2" onclick="rainbow()">
+  <input type="button" value="Red" id="btn-3" onclick="redFilter()">
+</p>
+<p>
+  <input type="button" value="Negative" id="btn-4" onclick="negative()">
+  <input type="button" value="Clear" id="clear" onclick="clearButton()">
+</p>
+
+  </td></tr></table>
